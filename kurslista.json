@@ -1,0 +1,60 @@
+[
+    {
+        "Kursnummer" : 1,
+        "Kursensnamn" : "C#",
+        "Kursenslängd" : "120",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig att koda i programmeringsspråket C#. Du kommer bland annat att lära dig MVVM.",
+        "Utbildare" : "Niklas Hjelm"
+    },
+    {
+        "Kursnummer" : 2, 
+        "Kursensnamn" : "Databaser",
+        "Kursenslängd" : "80",
+        "Kursensbeskrivning" :  "I denna kurs kommer du att få lära dig att skriva querys och få fram data från en databas. ",
+        "Utbildare" : "Niklas Hjelm"
+    },
+    {
+        "Kursnummer" : 3,
+        "Kursensnamn" : "Webbutveckling",
+        "Kursenslängd" : "150",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig både frontend och backend samt hur du skapar hemsidor med tillhörande funktioner",
+        "Utbildare" : "Sara Borg"
+    },
+    {
+        "Kursnummer" : 4,
+        "Kursensnamn" : "Agila metoder",
+        "Kursenslängd" : "60",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig att använda olika agila metoder inom webbutveckling",
+        "Utbildare" : "Niklas Hjelm"
+    },
+
+    {
+        "Kursnummer" :5,
+        "Kursensnamn" : "Java Script",
+        "Kursenslängd" : "90",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig att koda i programmeringsspråket Java Script. Du kommer bland annat att lära dig Vanilla Java Script",
+        "Utbildare" : "Erik Söderberg"
+    },
+    {
+        "Kursnummer" :6,
+        "Kursensnamn" : "Cloud",
+        "Kursenslängd" : "60",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig att använda moln samt lagra data i molnen",
+        "Utbildare" : "Sara Lind"
+    },
+    {
+        "Kursnummer" : 7,
+        "Kursensnamn" : "Kundförståelse",
+        "Kursenslängd" : "50",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig hur kunderna tänker samt hur man på bästa sätt kan nå dem",
+        "Utbildare" : "Kalle Borg"
+    },
+    {
+        "Kursnummer" :8,
+        "Kursensnamn" : "Clean code",
+        "Kursenslängd" : "70",
+        "Kursensbeskrivning" :  "I denna kurs får du lära dig hur du skriver ren och tydlig kod",
+        "Utbildare" : "Björn Björnsson"
+    }
+
+]
